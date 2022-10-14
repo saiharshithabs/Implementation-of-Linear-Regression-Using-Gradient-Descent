@@ -64,7 +64,7 @@ plt.ylabel("loss")
 
 ![image](https://github.com/saiharshithabs/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/602953a7ed1f86c629c6e4444204343572546a95/WhatsApp%20Image%202022-10-14%20at%208.26.55%20AM.jpeg)
 
-![image(https://github.com/saiharshithabs/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/5f51aaf1ba0aee04c99f08233315a501491992d6/WhatsApp%20Image%202022-10-14%20at%208.22.25%20AM.jpeg)
+![image](https://github.com/saiharshithabs/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/5f51aaf1ba0aee04c99f08233315a501491992d6/WhatsApp%20Image%202022-10-14%20at%208.22.25%20AM.jpeg)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
